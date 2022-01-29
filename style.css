@@ -77,6 +77,12 @@ p {
      margin: 25px 0;
 }
 
+.menu-icon {
+     width: 28px;
+     margin-left: 20px;
+     display: none;
+}
+
 .btn {
      display: inline-block;
      background: #ff523b;

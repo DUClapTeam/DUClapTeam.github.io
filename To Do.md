@@ -18,3 +18,7 @@
         - [ ] Manages user accounts
         - [ ] Manages user notifications
         - [ ] Manages user posts and likes (idk)
+
+# Meeting With Loklin (01/31/2022)
+## Agenda
+- [ ] Changes

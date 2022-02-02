@@ -1,7 +1,7 @@
 # To Do List
 
 - [ ] First Prototype
-    - [ ] Header
+    - [X] Header
     - [ ] Body
         - [ ] Links to other websites
         - [ ] Questionnaire about potentially expanding this project into a trading book system

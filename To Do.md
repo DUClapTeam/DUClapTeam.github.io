@@ -5,6 +5,7 @@
     - [ ] Body
         - [ ] Links to other websites
         - [ ] Questionnaire about potentially expanding this project into a trading book system
+            - [ ] Work on actually saving information that people send (PHP?)
     - [ ] Footer
 
 
@@ -19,6 +20,3 @@
         - [ ] Manages user notifications
         - [ ] Manages user posts and likes (idk)
 
-# Meeting With Loklin (01/31/2022)
-## Agenda
-- [ ] Changes

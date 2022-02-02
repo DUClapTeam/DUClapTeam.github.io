@@ -1,6 +1,7 @@
 # DUClapTeam.github.io
 
-#Introduction
+# Introduction
+
 Students across different campuses and universities already struggle with paying off their tuition, and yet, these institutions have the audacity to force
 students to buy textbooks which can easily become very expensive. Our project is dedicated to providing alternative resources for textbooks, whether that be cheaper
 websites or borrowing/buying books from other students who don't need them anymore.

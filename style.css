@@ -11,6 +11,10 @@ body {
      background: radial-gradient(#fff, #15be7b);
 }
 
+.logo {
+     width:20%;
+}
+
 .intro-photo {
      width: 95%;
 }

@@ -93,6 +93,18 @@ p {
      transition: background 0.5s;
 }
 
+.link-list {
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+}
+
+.link-list td {
+     padding: 35px;
+     font-size: 30px;
+}
+
 .btn:hover {
      background: #563434;
 }

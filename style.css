@@ -5,9 +5,8 @@
 
 }
 
-
 .carousel-item img{
-     height: 80%
+     height: 700px;
 }
 
 .transparent-box {
@@ -15,4 +14,10 @@ margin: 30px;
 background-color: #ffffff;
 /* border: 1px solid black; */
 opacity: 0.7;
+}
+
+.footer {
+     position: absolute;
+     bottom: 0;
+     width: 100%
 }

@@ -9,6 +9,67 @@
      height: 700px;
 }
 
+body {
+     font-family: 'Spline Sans', sans-serif;
+     background: radial-gradient(#fff, #15be7b);
+}
+
+.wide-img {
+     flex-shrink: 0;
+     min-width: 100%;
+     max-width: 100%;
+     height: auto;
+}
+
+.logo {
+     width:20%;
+}
+
+.intro-photo {
+     width: 95%;
+}
+
+.header .row {
+     margin-top: 70px;
+}
+
+.navbar {
+     display: flex;
+     align-items: center;
+     padding: 20px;
+}
+
+nav {
+     flex: 1;
+     text-align: right;
+}
+
+nav ul {
+     display: inline-block;
+     list-style-type: none;
+}
+
+nav ul li {
+     display: inline-block;
+     margin-right: 20px;
+}
+
+a {
+     text-decoration: none;
+     color: #555;
+}
+
+p {
+     color: #555;
+}
+
+.container {
+     max-width: 1300px;
+     margin: auto;
+     padding-left: 25px;
+     padding-right: 25px;
+}
+
 .transparent-box {
 margin: 30px;
 background-color: #ffffff;

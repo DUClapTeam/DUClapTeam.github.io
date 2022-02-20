@@ -9,6 +9,33 @@
      height: 700px;
 }
 
+.list-group {
+     width: 75%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+.list-group-container {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+.video-table td {
+     width: 25%;
+}
+
+.video-table iframe {
+     width: 100%;
+     height: auto;
+     aspect-ratio: 16 / 9;
+}
+.video-table table{
+     table-layout: fixed;
+     width: 100%;
+}
+
 body {
      font-family: 'Spline Sans', sans-serif;
      background: radial-gradient(#fff, #15be7b);

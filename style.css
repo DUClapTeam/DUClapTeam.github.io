@@ -5,6 +5,11 @@
 
 }
 
+.paragraphs {
+     padding: 25px 50px 25px 50px;
+     text-align: center;
+}
+
 .carousel-item img{
      height: 700px;
 }

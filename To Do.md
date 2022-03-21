@@ -1,23 +1,16 @@
 # To Do List
 
-- [ ] First Prototype
-    - [X] Header
-    - [ ] Body
-        - [ ] Links to other websites
-        - [ ] Questionnaire about potentially expanding this project into a trading book system
-            - [ ] Work on actually saving information that people send (PHP?)
-    - [ ] Footer
+- [X] Home Page -- Hector
+    - [X] Carousel with links ot other pages
+        - [X] 3 slides
+            - [X] Books
+            - [X] Library
+            - [X] Google Form
 
 
-**Don't Worry About This Portion Until We Recieve Enough Information From Prototype 1**
-- [ ] Second Prototype
-    - [ ] Header
-    - [ ] Body
-        - [ ] Manages posts and the feed
-    - [ ] Footer
-    - [ ] Backend
-        - [ ] Manages user accounts
-        - [ ] Manages user notifications
-        - [ ] Manages user posts and likes (idk)
+- [ ] Books Page -- Loklin
+    - [ ] links to online sources for textbooks
+- [ ] Library Page -- Loklin
+    - [ ] Links to youtube sources for library resources
 
 
